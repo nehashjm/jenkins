@@ -1,0 +1,11 @@
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.exe
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.dll
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.deps.json
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.runtimeconfig.json
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.pdb
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mphasis Simplilearn\Phase3\Day3\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
